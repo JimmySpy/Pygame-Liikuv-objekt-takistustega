@@ -45,11 +45,11 @@ Kasutasin ka tekst file selle jaoks et see automaatselt paneks kõige suurema sk
 
 # Allikad mida kasutasin:
 
-https://www.youtube.com/watch?v=y9VG3Pztok8
-https://www.youtube.com/watch?v=81qOMZ-nkaQ
-https://www.youtube.com/watch?v=GMBqjxcKogA
-https://www.youtube.com/watch?v=6zRqd-gyO4c
-https://www.youtube.com/watch?v=atoGQ9o0ooI
+1. https://www.youtube.com/watch?v=y9VG3Pztok8
+2. https://www.youtube.com/watch?v=81qOMZ-nkaQ
+3. https://www.youtube.com/watch?v=GMBqjxcKogA
+4. https://www.youtube.com/watch?v=6zRqd-gyO4c
+5. https://www.youtube.com/watch?v=atoGQ9o0ooI
 
 Mida leidsin ka youtube descriptionist:
 https://github.com/baraltech/Menu-System-PyGame
