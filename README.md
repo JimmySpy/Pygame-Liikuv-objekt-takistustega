@@ -1,4 +1,4 @@
-##Pygame Liikuvad kujundid koos mängijaga
+#Pygame Liikuvad kujundid koos mängijaga
 #Alguses tegin ekraani seaded ning vaatasin video kuidas teha Main Menus kasutasin pilte ning font-i file:
 “folder assets on pildid ja font”
 Vaatasin ka selle jaoks video
