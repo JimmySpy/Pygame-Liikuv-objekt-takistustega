@@ -1,5 +1,7 @@
-#Pygame Liikuvad kujundid koos mängijaga
-#Alguses tegin ekraani seaded ning vaatasin video kuidas teha Main Menus kasutasin pilte ning font-i file:
+# Pygame Liikuvad kujundid koos mängijaga
+
+
+# Alguses tegin ekraani seaded ning vaatasin video kuidas teha Main Menus kasutasin pilte ning font-i file:
 “folder assets on pildid ja font”
 Vaatasin ka selle jaoks video
 Pea menu:
@@ -15,7 +17,7 @@ Takistused (Saab lisada juurde takistusi)
 
 #Vaatasin video kuidas panna takistused liikuma ja kuidas panna mängija nuppudega liikuma: 
 
-#Noole nuppudega saad liikuda
+# Noole nuppudega saad liikuda
 Kasutasin seda koodi:
 # Mängija liikumine nooleklahvide abil
 keys = pygame.key.get_pressed()
@@ -31,7 +33,7 @@ if keys[pygame.K_DOWN]:
 
 
 
-##Tegin skoori ka (videoga)
+# Tegin skoori ka (videoga)
 Kasutasin fonti ja video koode.
 Kasutasin ka tekst file selle jaoks et see automaatselt paneks kõige suurema skoori kirja.
 
@@ -41,7 +43,7 @@ Kasutasin ka tekst file selle jaoks et see automaatselt paneks kõige suurema sk
 
 
 
-##Allikad mida kasutasin:
+# Allikad mida kasutasin:
 
 https://www.youtube.com/watch?v=y9VG3Pztok8
 https://www.youtube.com/watch?v=81qOMZ-nkaQ
@@ -53,6 +55,6 @@ Mida leidsin ka youtube descriptionist:
 https://github.com/baraltech/Menu-System-PyGame
 https://github.com/thatKevinSmall/SpaceDodger 
 
-#Github = https://github.com/JimmySpy/Pygame-Liikuv-objekt-takistustega
+# Github = https://github.com/JimmySpy/Pygame-Liikuv-objekt-takistustega
 
 
