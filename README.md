@@ -52,8 +52,8 @@ Kasutasin ka tekst file selle jaoks et see automaatselt paneks kõige suurema sk
 5. https://www.youtube.com/watch?v=atoGQ9o0ooI
 
 Mida leidsin ka youtube descriptionist:
-https://github.com/baraltech/Menu-System-PyGame
-https://github.com/thatKevinSmall/SpaceDodger 
+1. https://github.com/baraltech/Menu-System-PyGame
+2. https://github.com/thatKevinSmall/SpaceDodger 
 
 # Github = https://github.com/JimmySpy/Pygame-Liikuv-objekt-takistustega
 
